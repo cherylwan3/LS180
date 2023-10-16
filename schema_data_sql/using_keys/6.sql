@@ -1,0 +1,2 @@
+ALTER TABLE films
+ADD COLUMN id2 serial PRIMARY KEY;

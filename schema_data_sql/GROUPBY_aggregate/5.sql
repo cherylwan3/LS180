@@ -1,0 +1,1 @@
+select ROUND(AVG(duration)) FROM films;
